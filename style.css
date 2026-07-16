@@ -1,0 +1,129 @@
+
+
+section{
+    margin: 15px 0px;
+    padding: 18px 8px;
+}
+
+.flex{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.cmn-button{
+    background-color:#E8BA2E;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 10px;
+  cursor: pointer;
+}
+
+nav{
+    
+    border-radius: 20px;
+    background-color: white;
+    margin: 0;
+    padding:  0px 50px;
+  
+    display: block;
+    
+
+}
+
+nav img{
+    width: 31px;
+    padding: 2px;
+}
+
+
+nav ul li {
+    list-style: none;
+    padding: 20px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+}
+
+/* header  section */
+
+header{
+background-image:url('./image/Background.png');
+height: 1408px;
+height: 786px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+display: block;
+border-radius: 30px;
+border-radius: 10px;
+padding: 30px 50px;
+}
+
+header h1{
+font-size: 5rem;
+
+color: white;
+padding: 0px 0px;
+}
+header p{
+    color: white;
+    padding-bottom: 100px;
+
+}
+
+/* about section */
+.about-parent{
+    background-color: #F4C430;
+    padding: 0px 30px;
+    text-align: left;
+    gap: 24px;
+}
+
+.about-parent p{
+   padding-top: 10px;
+    font-size:20px;
+    color:rgba(77, 77, 77, 1);
+}
+.about-parent h1{
+     padding-bottom: 5px;
+    font-size: 4rem;
+    color: black;
+
+}
+
+/* Explore Host Cities */
+
+.Explore-Host-Cities-h1{
+
+    text-align: center; 
+     padding: 20px;
+     font-size: 3rem;
+}
+
+.Explor-parent{
+   gap: 48px;
+   padding: 0px 80px;
+ 
+
+}
+
+.Explor-parent h1{
+    font-size:bold;
+    font-weight: 2000;
+}
+
+.h1{
+    font-size: 40px;
+}
+
+.Explor-parent p{
+    color: rgba(77, 77, 77, 1);
+    line-height: 25px;
+}
+.Explor-parent ul{
+     color: rgba(77, 77, 77, 1);
+      line-height: 25px;
+}
