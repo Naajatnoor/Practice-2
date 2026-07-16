@@ -106,6 +106,7 @@ header p{
 .Explor-parent{
    gap: 48px;
    padding: 0px 80px;
+   line-height: 25px;
  
 
 }
@@ -121,9 +122,34 @@ header p{
 
 .Explor-parent p{
     color: rgba(77, 77, 77, 1);
-    line-height: 25px;
+    /* line-height: 25px; */
 }
 .Explor-parent ul{
      color: rgba(77, 77, 77, 1);
-      line-height: 25px;
+      /* line-height: 25px; */
+}
+
+.btn3{
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 20px;
+
+}
+
+/* table */
+
+.table-parent{
+    border: 1px solid rgb(188, 187, 187);
+    border-radius: 10px;
+  box-shadow:1px 1px 0.5px #e1d8d8;
+    margin: 0px 100px;
+    padding: 30px;
+}
+
+.table-top p{
+
+    font-size: small;
+   color: rgba(77, 77, 77, 1);
 }
