@@ -3,6 +3,9 @@
 A modern and responsive FIFA World Cup 2026 landing page built using **HTML5** and **CSS3**. This project was created as my **second frontend practice project** to strengthen my web development skills.
 
 ---
+## 🌐 Live Demo
+
+🔗 **[live demo link ](https://naajatnoor.github.io/Practice-2/)**
 
 ## 📖 About the Project
 
